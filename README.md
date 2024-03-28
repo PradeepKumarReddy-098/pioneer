@@ -1,9 +1,10 @@
 
 This Node.js application provides user registration, login, authorization, and data retrieval functionalities.
 
-## Doploy
- -  Doploy Link: https://pioneer-0zen.onrender.com/+(path)
-   eg:  https://pioneer-0zen.onrender.com/user, https://pioneer-0zen.onrender.com/login
+## Deployment Links
+ -  Deploy Link: https://pioneer-0zen.onrender.com/
+ -  add path at the end of the url <br />
+   eg:  `https://pioneer-0zen.onrender.com/user`, `https://pioneer-0zen.onrender.com/login`
  -  Swagger doc Link: https://pioneer-0zen.onrender.com/api-docs/
 
 ## Features:
