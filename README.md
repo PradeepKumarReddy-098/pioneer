@@ -1,6 +1,11 @@
 
 This Node.js application provides user registration, login, authorization, and data retrieval functionalities.
 
+## Doploy
+ -  Doploy Link: https://pioneer-0zen.onrender.com/+(path)
+   eg:  https://pioneer-0zen.onrender.com/user, https://pioneer-0zen.onrender.com/login
+ -  Swagger doc Link: https://pioneer-0zen.onrender.com/api-docs/
+
 ## Features:
 
 - User registration and login with JWT-based authentication
@@ -24,6 +29,10 @@ This Node.js application provides user registration, login, authorization, and d
 
 - Start the server: node index.js (main file)
 - The server will run on port 3001 by default (http://localhost:3001/)
+
+## Swagger Doc
+- You can access the swagger documentation at http://localhost:3001/api-docs/
+- and also at https://pioneer-0zen.onrender.com/api-docs/
 
 **User Table**
 
